@@ -15,5 +15,5 @@
 
 #### Things i've place my hands on:
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=angular,docker,linux,lit,python" />
+    <img src="https://skillicons.dev/icons?i=angular,docker,linux,python" />
 </p>
