@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Daniel Delchev!
+# Hi there 👋 I'm Daniel Delchev !
 
 ### 💻 About Me
 
