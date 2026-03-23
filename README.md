@@ -7,7 +7,7 @@ Junior Full Stack Developer · Open to work · Sofia, Bulgaria
 
 #### Technologies and Tools:
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=js,typescript,html,css,react,express,mongodb,postgresql,vscode,postman,obsidian" />
+    <img src="https://skillicons.dev/icons?i=js,typescript,html,css,react,express,nodejs,mongodb,postgresql,vscode,postman,obsidian," />
 </p>
 
 #### Also familiar with:
