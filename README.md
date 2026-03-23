@@ -2,7 +2,7 @@
 
 ### About Me
 
-Junior Full Stack Developer · Open to work · Sofia, Bulgaria
+#### Junior Full Stack Developer · Sofia, Bulgaria
 
 
 #### Technologies and Tools:
