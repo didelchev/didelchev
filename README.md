@@ -1,11 +1,11 @@
 # Hi there 👋 I'm Daniel Delchev !
 
-### 💻 About Me
+### About Me
 
-- 👀"I'm currently focused on building applications with React and Express."
+- Junior Full Stack Developer · Open to work · Sofia, Bulgaria
 
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 
 #### Main Skills:
@@ -13,7 +13,7 @@
     <img src="https://skillicons.dev/icons?i=js,typescript,html,css,react,express,mongodb,postgresql" />
 </p>
 
-#### Things i've place my hands on:
+#### Also familiar with:
 <p align="left">
     <img src="https://skillicons.dev/icons?i=angular,docker,linux,python" />
 </p>
