@@ -1,16 +1,13 @@
-# Hi there 👋 I'm Daniel Delchev !
+#  👋 Hi there, I'm Daniel Delchev !
 
 ### About Me
 
-- Junior Full Stack Developer · Open to work · Sofia, Bulgaria
+Junior Full Stack Developer · Open to work · Sofia, Bulgaria
 
 
-### Tech Stack
-
-
-#### Main Skills:
+#### Technologies and Tools:
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=js,typescript,html,css,react,express,mongodb,postgresql" />
+    <img src="https://skillicons.dev/icons?i=js,typescript,html,css,react,express,mongodb,postgresql,vscode,postman,obsidian" />
 </p>
 
 #### Also familiar with:
