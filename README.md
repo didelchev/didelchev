@@ -3,8 +3,7 @@
 ### About Me
 
 ### Junior Full Stack Developer
-### Building full-stack apps with React & Node.js
-### Sofia, Bulgaria
+#### Building full-stack apps with React & Node.js
 
 
 #### Technologies and Tools:
